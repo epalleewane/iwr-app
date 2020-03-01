@@ -1,1 +1,3 @@
-# iwr-app
+# maven-project
+
+Simple Maven Project
